@@ -22,6 +22,8 @@ The user can clone this repo, once in the terminal make sure to run npm i to dow
 
 ## Usage
 This application will be used to store notes online and offline using Manifest and service workers. When the user goes to the dev tools in the browser, under application you wll find the manifest.json, service workers, and the indexedDB. This application will save and can be used offline.
+![image](https://user-images.githubusercontent.com/114364879/225232212-16920a4c-43e9-4906-8131-b47768a5b335.png)
+
 
 ## License
 None
