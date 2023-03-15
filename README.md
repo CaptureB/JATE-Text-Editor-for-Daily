@@ -38,6 +38,6 @@ The user tests this application in their terminal by running npm run start:dev
 
 
 ## GitHub 
-
+https://github.com/CaptureB
 
 ## Email
