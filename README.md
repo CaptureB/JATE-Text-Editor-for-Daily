@@ -33,6 +33,8 @@ None
 
 ## Tests
 The user tests this application in their terminal by running npm run start:dev
+The deployed application can also be found here via Heroku
+https://jate-for-the-daily.herokuapp.com/
 
 ## Questions
 
