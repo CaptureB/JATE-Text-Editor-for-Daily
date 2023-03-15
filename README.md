@@ -21,7 +21,7 @@ JATE stands for Just Another Text Editor. This application allows the users to c
 The user can clone this repo, once in the terminal make sure to run npm i to download all the nesscary packages. Then run npm start:dev. This will launch the application on the localhost.
 
 ## Usage
-This application will be used to store notes online and offline using Manifest and service workers.
+This application will be used to store notes online and offline using Manifest and service workers. When the user goes to the dev tools in the browser, under application you wll find the manifest.json, service workers, and the indexedDB. This application will save and can be used offline.
 
 ## License
 None
