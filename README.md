@@ -40,6 +40,7 @@ https://jate-for-the-daily.herokuapp.com/
 
 
 ## GitHub 
-https://github.com/CaptureB
+https://github.com/rednblue97
 
 ## Email
+probablydavidgarcia97@gmail.com
